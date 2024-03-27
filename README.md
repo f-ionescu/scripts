@@ -17,4 +17,3 @@ This Python script deletes all object versions from an Amazon S3 bucket. It util
 - Modify the script to fit your specific requirements if necessary.
 
 For any questions or issues, please feel free to open an issue or reach out to the repository owner.
-# scripts
